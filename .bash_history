@@ -24,3 +24,6 @@ git add file
 git commit -m "first commit: file
 git add file
 
+yum install git -y
+git -version
+git --version
